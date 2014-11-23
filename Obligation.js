@@ -15,8 +15,8 @@
 var Die = 100; // Type of die to roll for Oblig
 var Mor_die = 10;
 var ObligAttribute = "obligationmag";  // Attribute to compare the roll
-var DutyAttribute = "attr_dutymag";
-var Moralityattribute = "attr_morality";
+var DutyAttribute = "dutymag";
+var Moralityattribute = "morality";
 state.aChar = state.aChars || {};
 var aChars;
 var type;
